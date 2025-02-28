@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Ecommerce.API\\Ecommerce.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Ecommerce.WebAssembly\\Ecommerce.WebAssembly.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
